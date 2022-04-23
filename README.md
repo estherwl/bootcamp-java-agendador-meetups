@@ -16,22 +16,12 @@ https://user-images.githubusercontent.com/42419543/162650128-1f8ab89f-0235-40a4-
 - TDD Test Driven Development
 - Azure functions
 
-## 👩‍💻 TODO list
-- [X] Implementação da classe se servico
-- [X] Testes no service
-- [X] Implementação da classe de controlle da web
-- [X] Testes de contrato no controller
-- [X] Testes unitarios no repository
-- [X] Implementação do repository
-- [X] Swagger
-- [X] Testes locais via postman
-- [ ] Deploy no azure
-
 ## TODO ALUNAS - camada Meetup
 
 - [ ] Testes do repository 
 - [ ] Testes do controller
 - [ ] Testes do service
+- [x] Deploy no Azure
 
 
 
